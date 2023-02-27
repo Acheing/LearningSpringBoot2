@@ -2,7 +2,7 @@
 
 ## 相关配置
 
-![image-20230227171407621](/Users/acheing/Library/Application Support/typora-user-images/image-20230227171407621.png)
+![image-20230227171407621](1.png)
 
 注意三个目录：
 
